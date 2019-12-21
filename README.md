@@ -1,6 +1,6 @@
-# 黄俊的财富自由记录
+# JuJu的缠论学习日记
 
-[李笑来](http://lixiaolai.com)（著）&copy; 2019
+[黄俊](http://huangjun.work)（著）&copy; 2019
 
 -----
 
@@ -369,93 +369,28 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 
 
 
------
-
 ## 关于本书
 
-本书不是技术书籍，它很短，它就是想尽量用最简单的方式给小白讲清楚区块链的 “最少必要知识”。
+本书开源于李笑来老师，很早就想做一个网站，放置自己写出来的东西，所以李笑来老师给了一个傻瓜式教学后就折腾出来了一个。本书记录的是一个穷小子挣扎着成长，顺便财富自由的日记，可能废话很多，可能对你没什么用，Whatever，能对小部分人产生作用就好，很多事情，不怎么样的我都能做到，你也能。
 
-本书内容保存在 [github](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
 
-本书完全开源，没有任何协议，你可以任意修改，任意发布 —— 只不过，希望你注意以下两点：
+##　关于原书
+>李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
+
+>本书不是技术书籍，它很短，它就是想尽量用最简单的方式给小白讲清楚区块链的 “最少必要知识”。
+
+>本书内容保存在 [github](https://github.com/xiaolai/blockchainlittlebook.com) 上，点击右上角那个小猫的图标，就可以转至该项目的仓库。
+
+>本书完全开源，没有任何协议，你可以任意修改，任意发布 —— 只不过，希望你注意以下两点：
 
 > * 保留原文出处，加上原站链接：https://blockchainlittlebook.com
 > * 如若做出了修改，最好在保留原文的情况下，加上醒目的修改标注。
 
-欢迎各种语言的翻译 —— 请提交 pull request。请将翻译文件放置到相应的目录之中，文件仍然命名为 README.md，比如
-
-> /en/README.md
->
-> /jp/README.md
-
-**你甚至可以用它做自己的网站！** —— 自己先去买一个域名就好。
-
-在你注册好自己的 github 账户之后，你就可以 Fork 当前这个项目为自己的仓库：
-
-![](images/fork1.png)
-
-Fork 完成之后，点开 Settings
-
-![](images/fork2.png)
-
-往下拉，拉到 GitHub Pages 单元，Source 中选择 ```master branch```：
-
-![](images/fork3.png)
-
-而后在 Custom Domain 中填写你自己的域名（你可以在 [name.com](https://www.name.com/) 上或者[阿里云](https://www.net.cn)上购买域名）：
-
-![](images/fork4.png)
-
-你需要在域名服务商的页面中，为自己的域名添加以下 4 条 A 记录和 1 条 CNAME 记录：
-
-> A 记录：
->
-> * 185.199.108.153
-> * 185.199.109.153
-> * 185.199.110.153
-> * 185.199.111.153
->
-> CNAME
->
-> host: www
->
-> Anser: *your-github-username*.github.io
-
-我的设置如下：
-
-![](images/custom-domain.png)
-
-大功告成！几分钟之后，你就可以看到你自己的域名已经生效了，若是你身边有人想要了解区块链，那么你就可以给他属于你自己的链接了。如果需要修改内容，直接在 GitHub 页面里编辑即可……
-
-注意：原仓库会经常更新，所以，你也要将你的 Fork 保持更新：
-
-```bash
-git clone https://github.com/gitbasictutorial/blockchainlittlebook.com
-cd blockchainlittlebook.com
-git remote add upstream https://github.com/xiaolai/blockchainlittlebook.com
-git pull upstream master
-git push -u origin master
-```
 
 ## 关于作者
 
-李笑来，投资人，终生成长者。[http://lixiaolai.com](http://lixiaolai.com) · [xiaolai@github](https://github.com/xiaolai)
 
-### 出版书籍
 
-> * TOEFL 核心词汇 21 天突破
-> * [TOEFL 高分作文](http://lixiaolai.com/#/twe185/)
-> * [把时间当作朋友](http://lixiaolai.com/#/befriending-time/)
-> * 通往财富自由之路
-> * 韭菜的自我修养（[中文](http://lixiaolai.com/#/the-self-cultivation-of-leeks/cn/) · [English](http://lixiaolai.com/#/the-self-cultivation-of-leeks/en/)）
-> * [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
-> * [定投改变命运（第三版）](https://onregularinvesting.com)
 
-### 其它
 
-> * [我也有话要说](http://lixiaolai.com/#/i-have-a-say/)
-> * [人人都能用英语](http://lixiaolai.com/#/everyone-can-use-english/)
-> * [挤挤都会有的 —— 写给女生的性高潮指南](http://lixiaolai.com/#/ji/)
-> * INBlockchain 开源投资原则 ([中文](http://lixiaolai.com/#/INB-principles/cn/) · [English](http://lixiaolai.com/#/INB-principles/en/))
-> * [Bitcoin 白皮书（中英对照）](http://lixiaolai.com/#/bitcoin-whitepaper-cn-en-translation/Bitcoin-Whitepaper-EN-CN.html)
-> * [区块链小白书](https://blockchainlittlebook.com)
+
