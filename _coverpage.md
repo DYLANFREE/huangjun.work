@@ -1,4 +1,4 @@
-# 区块链小白书
-李笑来（著）&copy; 2019
+# JuJu的缠论学习笔记
+黄俊（著）&copy; 2019
 
-![](/images/blbcover.gif)
+![](https://imgchr.com/i/QjMoYq)
