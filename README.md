@@ -94,11 +94,9 @@
 
 ## 专利附件
 
-![Alt text]（https://s2.ax1x.com/2019/12/25/lidjN4.jpg）
+<img src="https://s2.ax1x.com/2019/12/25/lidhNQ.png" alt="lidhNQ.png" border="0" />
 
-![Alt text]（https://s2.ax1x.com/2019/12/25/lidhNQ.png）
-
-
+<img src="https://s2.ax1x.com/2019/12/25/lidjN4.jpg" alt="lidjN4.jpg" border="0" />
 
 
 
