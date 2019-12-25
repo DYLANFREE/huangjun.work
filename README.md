@@ -11,9 +11,14 @@
 本书的核心关键字就一个「赚钱」，核心话题就两个
 
 * 为什么赚不到钱？ 
-* 怎么样赚钱？
+>I always say I want to know where I would die so I can never go there.
+——Charlie Munger
 
->I always say I want to know where I would die so I can never go there.——Charlie Munger
+* 怎么样赚钱？
+>The iron rule of nature is: You get what you reward for. If you want ants to come, you put sugar on the floor.
+——Charlie Munger
+
+
 
 ## 缠论缘起？
 
