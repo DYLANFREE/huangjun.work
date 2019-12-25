@@ -94,8 +94,11 @@
 
 ## 专利附件
 
+专利请求书
+
 <img src="https://s2.ax1x.com/2019/12/25/lidhNQ.png" alt="lidhNQ.png" border="0" />
 
+国家知识产权局受理通知书
 <img src="https://s2.ax1x.com/2019/12/25/lidjN4.jpg" alt="lidjN4.jpg" border="0" />
 
 
