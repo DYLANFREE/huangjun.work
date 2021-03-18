@@ -94,34 +94,34 @@ o	帮助大家从交易层面的角度，去体验一下所谓的四维
 ### 点线面体
 在了解K面和K体前，我们先来回顾一下点线面体，接触过义务教育的，都在初高中学习过几何，几何把物体分成点线面体，一条线是由无数密集点组成的，一个面是由无数线密集排列而成，一个体是由无数面密集排列而成。
 
-![点线面体](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/%E7%82%B9%E7%BA%BF%E9%9D%A2%E4%BD%93.png)
- 
+<img src="https://s3.ax1x.com/2021/03/18/627c5T.png" alt="627c5T.png" border="0" />
+
 类比到市场里，K线K面K体也是顺利成章的，K柱组合成K线，K线组合成K面，K面组合成K体。市场走势图里最小的组成元素点，理应是一笔笔的交易，毕竟市场就是由一笔笔交易构成而成的，一笔交易包括三个信息：
 o	时间
 o	价格
 o	数量
 
 但一笔笔的交易就像化学里的原子，细致细微但不方便分析，而原子的集合体，元素不如原子细微，却可以集中体现某一类原子的性质。
+
 把一笔交易比作原子，把一笔交易对应的元素便是K柱，K柱的方便之处在于，用图表的方式直观展现了一段时间内价格的运动，比如1分钟K柱指的是1分钟内价格的上下移动，也就是说不单单看一笔交易，而是看这一分钟内打包的所有交易体现的属性。
 
 一个X分钟的K柱可以直观展示出，开盘价，收盘价，最高价，最低价，以及在X分钟时间内，价格是如何波动的。
 
-![k线](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/K%E7%BA%BF.png)
- 
+[![627c5T.png](https://s3.ax1x.com/2021/03/18/627c5T.png)](https://imgtu.com/i/627c5T)
+
 进一步，由Y个连续X分钟K柱组合成的是K线，一段Y * X分钟的K线可以直观展示价格在Y * X分钟内的移动的轨迹。
 
-![K线](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/1.png)
+
  
 进一步，由Z个连续Y * X分钟K柱组合成的是K面，一段Z * Y * X的K面可以直观展示价格在Z * Y * X分钟内的价格移动轨迹。
 
-![K面](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/2.png)
- 
+
+
 这就是不同的之处了，一个时长24小时的K线图，你可以当成一段24小时的K线，也可以看成是每根K柱1小时，每根K线由4根1小时K柱组成，整个K面由6根4小时的K线组合而成，整个K面由24根1小时的K柱组合而成。
 
 同理可得，由N个连续Z * Y * X分钟K柱组合成的是K体，一段N * Z * Y * X的K体可以直观展示价格在N * Z * Y * X分钟内的价格运动轨迹。
 
-![K体](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/3.png)
- 
+
 
 整一个柱线面体的升级用数学语言描述就是
 
