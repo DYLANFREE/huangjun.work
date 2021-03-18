@@ -94,7 +94,7 @@ o	帮助大家从交易层面的角度，去体验一下所谓的四维
 ### 点线面体
 在了解K面和K体前，我们先来回顾一下点线面体，接触过义务教育的，都在初高中学习过几何，几何把物体分成点线面体，一条线是由无数密集点组成的，一个面是由无数线密集排列而成，一个体是由无数面密集排列而成。
 
-[![6276aV.png](https://s3.ax1x.com/2021/03/18/6276aV.png)](https://imgtu.com/i/6276aV)
+![6276aV.png](https://s3.ax1x.com/2021/03/18/6276aV.png)](https://imgtu.com/i/6276aV)
 
 类比到市场里，K线K面K体也是顺利成章的，K柱组合成K线，K线组合成K面，K面组合成K体。市场走势图里最小的组成元素点，理应是一笔笔的交易，毕竟市场就是由一笔笔交易构成而成的，一笔交易包括三个信息：
 o	时间
@@ -107,21 +107,21 @@ o	数量
 
 一个X分钟的K柱可以直观展示出，开盘价，收盘价，最高价，最低价，以及在X分钟时间内，价格是如何波动的。
 
-[![627c5T.png](https://s3.ax1x.com/2021/03/18/627c5T.png)](https://imgtu.com/i/627c5T)
+![](https://i.loli.net/2021/03/18/T2NQK9nzEYXgoFS.png)
 
 进一步，由Y个连续X分钟K柱组合成的是K线，一段Y * X分钟的K线可以直观展示价格在Y * X分钟内的移动的轨迹。
 
-
+![](https://i.loli.net/2021/03/18/EcFsa6u43iKCNT1.png)
  
 进一步，由Z个连续Y * X分钟K柱组合成的是K面，一段Z * Y * X的K面可以直观展示价格在Z * Y * X分钟内的价格移动轨迹。
 
-
+![](https://i.loli.net/2021/03/18/gnR2m7wtNIqiZAJ.png)
 
 这就是不同的之处了，一个时长24小时的K线图，你可以当成一段24小时的K线，也可以看成是每根K柱1小时，每根K线由4根1小时K柱组成，整个K面由6根4小时的K线组合而成，整个K面由24根1小时的K柱组合而成。
 
 同理可得，由N个连续Z * Y * X分钟K柱组合成的是K体，一段N * Z * Y * X的K体可以直观展示价格在N * Z * Y * X分钟内的价格运动轨迹。
 
-
+![](https://i.loli.net/2021/03/18/JfX6dtKVM5COEQm.png)
 
 整一个柱线面体的升级用数学语言描述就是
 
@@ -134,21 +134,23 @@ o	数量
 ### 为什么要对K线分类和组合呢？
 因为不同的视角观察同一段走势可以得出不同的信息，就好比同样是一个正方体，如果让我们去观察正方体的性质，不同维度视角得出来的信息是不一样的，或者说信息的颗粒度是不一样的，细致到点的视角能得出微观的信息，整体到体甚至更高维度的视角能看出宏观的走向。
 
-![不同维度的视角](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/4.png)
+![](https://i.loli.net/2021/03/18/23rwoKgFCVh6YiI.png)
 
 同理，如果说看K线是在一维观察价格走势，看K面就是在二维观察价格走势，看K体就是在三维观察价格走势，K面和K体以及更高维度的视角，是对同一个价格走势的深度信息挖掘，是对单一视角的降维打击。
+
+![](https://i.loli.net/2021/03/18/2JskIFNnYAEWG6q.png)
  
 还是上面三张图来做例子，帮助直观感受一下，K线的图，你看到的是乱序的，只能看到K线的价格的移动轨迹
 
-![k线](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/K%E7%BA%BF.png)
+![](https://i.loli.net/2021/03/18/EcFsa6u43iKCNT1.png)
  
 K面的图，你看到的是3段K线的有序组合，看到的是一段下跌K线+一段横盘K线+一段上涨K线
 
-![K面](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/2.png)
+![](https://i.loli.net/2021/03/18/EcFsa6u43iKCNT1.png)
  
 K体的图，你不仅能看到每一个单独的K面的结构是如何的，第一个K面上涨，第二个K面下跌盘整，第三个K面上涨盘整，你还能看到由这三个K面组合成的整一个K体的结构是上涨+横盘。
 
-![N * Z * Y * X分钟内的价格运动轨迹](https://github.com/DYLANFREE/huangjun.work/blob/master/images/firstclass%20about%20trading/3.png)
+![](https://i.loli.net/2021/03/18/gnR2m7wtNIqiZAJ.png)
  
 你发现没有，仅仅是通过简单的分类，那些分类都是我随手花的框，只是为了让大家明白缠论眼里的K线结构，即使如此，同样的K线图，在你的眼里，便不再是原来的那个K线图，竟然能得出不一样的结论，你能看到一个K体，K体里的K面，K面里的K线，K线的K柱。恭喜你，K线还是那个K线，但你不再是那个你，如果你能理解上文所说的东西，你对K线的理解，起码已经进入第二层，看K线不再是K线。
 
@@ -203,7 +205,7 @@ PS：如果你真想让你的交易水平有进步，请务必只字不差地阅
 
 市场的走势可以用这么一个活成段子的真理来概括：不是上涨就是下跌，不排除有横盘的可能性。
 
-![废话](https://github.com/DYLANFREE/huangjun.work/blob/master/images/2class/%E5%BA%9F%E8%AF%9D.png)
+![](https://i.loli.net/2021/03/18/o51yJQUdgeYLPnx.png)
 
 这是市场里的一句“废话”，经常在群里讨论走势时出现，暗讽分析师之无用，是一个人人都知道的废话，但此“废话”之所废，是因为单单这么一句话，它无用，派不上用场，但不代表它不正确，相反，它太过于正确，是一个被人们习惯性忽略的公开秘密。这个公开的秘密放在群里是段子，放在缠论里便是公理，是缠论最底层的地基，一点点开枝散叶构建起缠论的整座大厦，仅是理解这个秘密，在宏观上，你的交易胜率就已经战胜市场里2/3的人，没有夸张，只是一个简单的数学统计和分类。
 
