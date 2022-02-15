@@ -2498,7 +2498,6 @@ A时刻下跌介入后，如果B时刻不是上涨，无条件退出
 
 ## 打赏
 
-如果觉得我的文字对你有帮助，感谢打赏
 
 BTC：1JcKzcSZYxgwGrg4aYhd9mHLDYwMLVBDGn
 
@@ -2506,7 +2505,29 @@ ETH：0x13733Cf0a2E375c300C0ef71ED4963Cd9127ffD7
 
 USDT：TUHaeHAozLhkHXKWbmWixhWReUB3guSmYd
 
-<img src="https://s4.ax1x.com/2022/02/15/HgG1nP.jpg" alt="HgG1nP.jpg" align="left">
 
-<img src="https://s4.ax1x.com/2022/02/15/HgGQXt.jpg" alt="HgGQXt.jpg" align="right">
+
+
+
+<section style="display: flex;flex-direction: row;justify-content: center;border:solid;">
+    <div>
+    <img src="https://s4.ax1x.com/2022/02/15/HgG1nP.jpg" alt="HgG1nP.jpg" >
+    </div>
+    <div style=" margin-top: 60px;">
+    <img src="https://s4.ax1x.com/2022/02/15/HgGQXt.jpg">
+   </div>
+</section>
+
+
+<section style="display: flex;flex-direction: row;justify-content: center;border:solid;">
+    <div style="justify-content: center;">
+    <img src="https://s4.ax1x.com/2022/02/15/Hgd2aq.jpg" alt="HgG1nP.jpg" >
+    </div>
+    <div>
+    <img src="https://s4.ax1x.com/2022/02/15/Hgd2aq.jpg">
+   </div>
+   <div>
+    <img src="https://s4.ax1x.com/2022/02/15/HgdRI0.jpg">
+   </div>
+</section>
 
