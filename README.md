@@ -2489,11 +2489,12 @@ A时刻下跌介入后，如果B时刻不是上涨，无条件退出
 * 除了被动退出，每次主动进入和退出都是依据买卖点来的
 
 ## 感谢赞助商
-感谢那些在网站制作过程中给予我大力支持的朋友们，是你们让我加速了这个网站的建成。以下感谢排名不分先后：
+感谢那些在网站制作过程中给予我大力支持的朋友们，是你们的奶茶让我不舍昼夜加班加点做牛做马地加速了这个网站的建成。
+
+以下感谢排名不分先后：
 
 李宇俊 陈宏煜 微信昵称：章鱼哥 
 谢思聪
-
 
 
 ## 打赏
@@ -2506,16 +2507,16 @@ ETH：0x13733Cf0a2E375c300C0ef71ED4963Cd9127ffD7
 
 USDT：TUHaeHAozLhkHXKWbmWixhWReUB3guSmYd
 
-<section style="display: flex;flex-direction: row;justify-content: center;border:solid;">
+<section style="display: flex;flex-direction: row;justify-content: center;">
     <div>
-    <img src="https://s4.ax1x.com/2022/02/15/HgG1nP.jpg" alt="HgG1nP.jpg" >
+    <img src="https://s4.ax1x.com/2022/02/15/HgBXiq.png" alt="HgG1nP.jpg" >
     </div>
-    <div style=" margin-top: 60px;">
+    <div>
     <img src="https://s4.ax1x.com/2022/02/15/HgGQXt.jpg">
    </div>
 </section>
 
-<section style="display: flex;flex-direction: row;justify-content: center;border:solid;">
+<section style="display: flex;flex-direction: row;justify-content: center;">
     <div style="justify-content: center;">
     <img src="https://s4.ax1x.com/2022/02/15/Hgd2aq.jpg" alt="HgG1nP.jpg" >
     </div>
