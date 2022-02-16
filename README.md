@@ -1979,8 +1979,9 @@ A30-m30，可能就构成 30 分钟的第三类买卖点。由于走势都是从
 
 ---
 分界线，以上为缠师所著内容，以下为我个人所著内容
+## 分界线
 
-## 认知与钱
+## 认知
 
 * 为什么赚不到钱？ 
 >I always say I want to know where I would die so I can never go there.
