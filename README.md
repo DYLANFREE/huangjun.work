@@ -2433,10 +2433,10 @@ A时刻下跌介入后，如果B时刻不是上涨，无条件退出
 
 <section style="display: flex;flex-direction: row;justify-content: center;">
     <div>
-    <img src="https://s2.loli.net/2022/02/17/hTL4JZvgo1NRPlA.jpg" >
+    <a href="https://s2.loli.net/2022/02/17/hTL4JZvgo1NRPlA.jpg" target="_blank"><img src="https://s2.loli.net/2022/02/17/hTL4JZvgo1NRPlA.jpg" alt="微信收款码2.jpg"></a>
     </div>
     <div>
-    <img src="https://s2.loli.net/2022/02/17/tcMzK2owWfmF9AD.png">
+    <a href="https://s2.loli.net/2022/02/17/tcMzK2owWfmF9AD.png" target="_blank"><img src="https://s2.loli.net/2022/02/17/tcMzK2owWfmF9AD.png" alt="支付宝.png"></a>
    </div>
 </section>
 
