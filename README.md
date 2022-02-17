@@ -2392,8 +2392,7 @@ A时刻下跌介入后，如果B时刻不是上涨，无条件退出
 
 #### 关于级别
 
-<a href="https://imgtu.com/i/Hgrmhq"><img src="https://s4.ax1x.com/2022/02/15/Hgrmhq.png" alt="Hgrmhq.png" border="0" /></a>
-
+<a href="https://sm.ms/image/NHLqcf4JUkFOZMr" target="_blank"><img src="https://s2.loli.net/2022/02/17/NHLqcf4JUkFOZMr.png" alt="级别图示裁剪_水印版.png"></a>
 
 #### 关于大小级别操作
 
