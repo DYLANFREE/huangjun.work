@@ -2440,7 +2440,7 @@ A时刻下跌介入后，如果B时刻不是上涨，无条件退出
    </div>
 </section>
 
-接受数字货币打赏
+<p style="text-align:center">**接受数字货币打赏**</p>
   
 <section style="display: flex;flex-direction: row;justify-content: center;">
     <div style="justify-content: center;">
